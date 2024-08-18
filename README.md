@@ -4,7 +4,7 @@ This repository provides labels for unlabeled datasets using simple clustering m
 Here is the results :
 
 
-![image](https://github.com/user-attachments/assets/c7675da6-10e2-4672-adc7-37f3d02a108c)
+![image](https://github.com/user-attachments/assets/ec9ef4dd-a67c-4d2d-aef4-50e12e679446)
 
 ![image](https://github.com/user-attachments/assets/3bd91e4e-6c6e-4723-90a1-eecfa3db3367)
 
